@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/xrust1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xrust1995" height="30" width="40" /></a>
-<a href="https://instagram.com/xrust1995" target="blank"><img align="center" src="https://free-png.ru/wp-content/uploads/2021/01/telegram_cvet-d23c11fa-500x491.png" alt="xrust1995" height="30" width="30" /></a>
+<a href="https://t.me/maksim_selchukou" target="blank"><img align="center" src="https://free-png.ru/wp-content/uploads/2021/01/telegram_cvet-d23c11fa-500x491.png" alt="xrust1995" height="30" width="30" /></a>
   
 </p>
 
